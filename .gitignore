@@ -1,0 +1,4 @@
+parking-stay-api/node_modules
+parking-stay-api/dist
+/vendor/
+accounting-api/vendor/
